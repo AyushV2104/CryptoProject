@@ -1,1 +1,1 @@
-# CryptoProject
+# CryptoCurrencyProject
