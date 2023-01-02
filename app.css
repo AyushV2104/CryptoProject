@@ -5,12 +5,12 @@
     margin-top: 2%;
 }
 body{
-    background-color: #14213d;
+    background-color: #03071f;
 }
 .fix{
-    border:2px solid #fca311;
+    border:2px solid #706e6b;
     border-radius: 5px;
-    background-color:#fca311 ;
+    background-color:#706e6b ;
     padding: 10px;
 }
 h1,h4{
